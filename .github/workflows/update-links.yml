@@ -1,0 +1,15 @@
+name: Update Repository Links
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  update-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vixshan/linkapp@v1.0.2-alpha.1
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          create-pr: 'true'  # Optional, defaults to false
