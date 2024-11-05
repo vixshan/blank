@@ -7,9 +7,6 @@ fileTypes:
   - 'js'
   - 'ts'
 
-githubUrls:
-  types:
-    - 'all' 
 ignore:
   - 'https://github.com/Discordjs/discordjs'
   - 'https://github.com/saiteja-madha'
