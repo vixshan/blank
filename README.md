@@ -13,6 +13,7 @@
 [![PRs][pr-shield]][pr-url] [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![DeepScan grade](https://deepscan.io/api/teams/25348/projects/28264/branches/910375/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=25348&pid=28264&bid=910375)
 
 </h1>
 
